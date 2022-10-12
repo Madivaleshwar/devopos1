@@ -1,0 +1,5 @@
+x=5
+print(5)
+type(x)
+
+print("Hello world")
