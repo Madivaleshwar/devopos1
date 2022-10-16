@@ -1,5 +1,2 @@
-x=5
-print(5)
-type(x)
-
-print("Hello world")
+x = input("Enter the number of value:")
+print(x)
